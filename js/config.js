@@ -1,7 +1,7 @@
 let config = {
   preloaderDelay: 1,
   showDelay: 1,
-  title: 'msizen',
+  title: 'dently',
   social: {
     telegram: 'dentlysempaiz',
     youtube: 'UCa9tLAc7Fp8nB7hNk2oXvgQ',

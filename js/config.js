@@ -1,0 +1,20 @@
+let config = {
+  preloaderDelay: 1,
+  showDelay: 1,
+  title: 'msizen',
+  social: {
+    telegram: 'dentlysempaiz',
+    youtube: 'UCa9tLAc7Fp8nB7hNk2oXvgQ',
+    gift: 'DENTLY',
+  },
+  preloaderColor: '#f5323c',
+  playButtonColor: '#ff0000',
+  playButtonShadowColor: 'rgba(255, 0, 55, 0.7)',
+  titleColor: '#FF0000',
+  titleShadowColor: 'rgba(255, 0, 55, 0.7)',
+  copyrightText: 'donate me, plz..',
+  copyrightTextColor: '#f5323c',
+  copyrightShadowColor: 'rgba(255, 0, 55, 0.1)',
+  socialColor: '#FF0000',
+  socialShadowColor: 'rgba(255, 0, 55, 0.2)',
+}
